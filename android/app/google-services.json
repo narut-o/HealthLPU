@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "395003165446",
+    "project_id": "mybuddy-c355f",
+    "storage_bucket": "mybuddy-c355f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395003165446:android:cae6977981c49f882dbc87",
+        "android_client_info": {
+          "package_name": "com.example.healthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395003165446-5f812hjv19snfsao40kogamlf75hhqm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqKUpO7BlbVOCuEKC1w442rQAcrOeAAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395003165446-5f812hjv19snfsao40kogamlf75hhqm9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395003165446-k1epgudbd0h442p3vh6dkj1qthfs5nm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mybuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
